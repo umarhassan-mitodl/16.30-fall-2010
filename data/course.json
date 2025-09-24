@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Avionics"
+    ]
+  ],
+  "legacy_uid": "0b28cd1b-e8e9-afe3-315b-fde47df11330",
+  "instructors": {
+    "content": [
+      "442742a5-f34c-1b97-76e5-2e8d7f59dc8d",
+      "a484aca3-4847-0aa4-53bc-c1e018a91dc3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7ea0bbc3-dd19-2602-4bf8-07fd907e2300",
+    "website": "16-30-feedback-control-systems-fall-2010"
+  },
+  "course_title": "Feedback Control Systems",
+  "course_description": "This course will teach fundamentals of control design and analysis using state-space methods. This includes both the practical and theoretical aspects of the topic. By the end of the course, you should be able to design controllers using state-space methods and evaluate whether these controllers are robust to some types of modeling errors and nonlinearities. You will learn to:\n\n*   Design controllers using state-space methods and analyze using classical tools.\n*   Understand impact of implementation issues (nonlinearity, delay).\n*   Indicate the robustness of your control design.\n*   Linearize a nonlinear system, and analyze stability.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "16.31",
+  "primary_course_number": "16.30",
+  "course_image_thumbnail": {
+    "content": "4c2ca82e-ca9e-cdd6-7a22-c9b222fef8a4",
+    "website": "16-30-feedback-control-systems-fall-2010"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Design Assignments"
+  ],
+  "site_uid": "3af066dd-fe43-474e-a596-134ae4b32726",
+  "site_short_id": "16.30-fall-2010",
+  "site_url_path": "courses/16-30-feedback-control-systems-fall-2010",
+  "title": "Course Metadata"
+}
