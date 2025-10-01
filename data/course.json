@@ -29,6 +29,7 @@
     "website": "16-30-feedback-control-systems-fall-2010"
   },
   "course_title": "Feedback Control Systems",
+  "hide_download": true,
   "course_description": "This course will teach fundamentals of control design and analysis using state-space methods. This includes both the practical and theoretical aspects of the topic. By the end of the course, you should be able to design controllers using state-space methods and evaluate whether these controllers are robust to some types of modeling errors and nonlinearities. You will learn to:\n\n*   Design controllers using state-space methods and analyze using classical tools.\n*   Understand impact of implementation issues (nonlinearity, delay).\n*   Indicate the robustness of your control design.\n*   Linearize a nonlinear system, and analyze stability.\n",
   "department_numbers": [
     "16"
@@ -39,6 +40,7 @@
     "content": "4c2ca82e-ca9e-cdd6-7a22-c9b222fef8a4",
     "website": "16-30-feedback-control-systems-fall-2010"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",

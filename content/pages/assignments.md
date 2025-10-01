@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the homework assignments and labs for the course,
   related resources, and information on the course project.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -22,7 +22,7 @@ Some basic understanding of classical design techniques, including root locus an
 
 - State-space control design and analysis of feedback control systems
     - Focus will be on linear systems, but consider more nonlinear analysis and control than before (but with less breadth than 2.152)
-    - Coverage of linear systems theory, but not as theoretical as {{% resource_link "c2c0db5b-25c4-45be-804b-cde4f97b6234" "6.241" %}}, which is being redesigned to follow-on from this course
+    - Coverage of linear systems theory, but not as theoretical as [6.241](https://ocw-studio.odl.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011), which is being redesigned to follow-on from this course
 - Design of state-space controllers; estimation filters; dynamic output feedback
 - Limitations on performance of control systems
 - Linearization and analysis of nonlinear systems
@@ -68,15 +68,15 @@ None are required, as lecture notes will be provided. Several recommendations:
 
 Franklin, Gene, J. David Powell, and Abbas Emami-Naeini. *Feedback Control of Dynamic Systems.* 6th ed. Prentice Hall, 2009. ISBN: 9780136019695.
 
-Astrom, Karl, and Richard Murray. {{% resource_link "17995fa9-5ead-4d53-a99b-75036f4c732e" "*Feedback Systems: An Introduction for Scientists and Engineers*" %}}. Princeton University Press, 2008. ISBN: 9780691135762.
+Astrom, Karl, and Richard Murray. [*Feedback Systems: An Introduction for Scientists and Engineers*](https://web.archive.org/web/20080710085350/https://www.cds.caltech.edu/~murray/amwiki/index.php?title=Main_Page). Princeton University Press, 2008. ISBN: 9780691135762.
 
 Van de Vegte, John. *Feedback Control Systems*. 3rd ed. Prentice Hall, 1993. ISBN: 9780130163790.
 
 ## MATLAB Tutorials
 
-{{% resource_link "f273744d-63c3-4066-a8d4-f0372b9fa00e" "Control Tutorials for MATLAB" %}}
+[Control Tutorials for MATLAB](http://web.archive.org/web/20011128084840/http://www.engin.umich.edu/group/ctm/)
 
-{{% resource_link "532f0817-5a19-4ecf-946d-6436b99767d1" "Tutorial for Control System Toolbox for MATLAB" %}}
+[Tutorial for Control System Toolbox for MATLAB](http://techteach.no/publications/control_system_toolbox/)
 
 ## Course Mechanics
 
